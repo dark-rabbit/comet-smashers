@@ -11,6 +11,8 @@ Remake of Comet Busters with SFML
 
   **$ ./install.sh**
 
-3. Run he game :
+3. Run the game :
 
   **$ ./comet-smashers**
+
+*Collisions coming soon !*
