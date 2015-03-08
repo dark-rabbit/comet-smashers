@@ -1,16 +1,16 @@
 # comet-smashers
 Remake of Comet Busters with SFML
 
-Install sfml :
+1. Install sfml :
 
-$ sudo apt-get install libsfml-dev
+  **$ sudo apt-get install libsfml-dev**
 
-Run the install.sh script :
+2. Run the install.sh script :
 
-$ chmod +x install.sh
+  **$ chmod +x install.sh**
 
-$ ./install.sh
+  **$ ./install.sh**
 
-Run he game :
+3. Run he game :
 
-$ ./comet-smashers
+  **$ ./comet-smashers**
